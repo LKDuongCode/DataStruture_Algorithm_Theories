@@ -1,7 +1,6 @@
 # link video bài giảng:
-
-[link](https://www.youtube.com/watch?v=un7rtvdqao4&ab_channel=RikkeiEducation)
-[link](https://www.youtube.com/watch?v=6Mj-Qg0pPjE&ab_channel=RikkeiEducation)
+- [link 1](https://www.youtube.com/watch?v=un7rtvdqao4&ab_channel=RikkeiEducation)
+- [link 2](https://www.youtube.com/watch?v=6Mj-Qg0pPjE&ab_channel=RikkeiEducation)
 
 ## Lý thuyết:
 
