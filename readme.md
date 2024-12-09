@@ -42,7 +42,7 @@ struct Node{
   - node2: data = 9; next(node3)
   - node3: data = 20; next(null)
 
-3. Các thao tác cơ bản (4)
+3. Các thao tác cơ bản (3)
 
 - `Insertion`
 
