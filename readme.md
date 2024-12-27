@@ -56,14 +56,10 @@
     - Ưu: tiết kiệm bộ nhớ cho đồ thị thưa, thêm cạnh nhanh chóng.
     - Nhược: Truy cập không trực tiếp, cần duyệt dslk để kiểm tra.
 
-    ```c
-    #include <stdio.h>
-    #include <stdlib.h>
-
-    //dinh nghia do thi
-    #include<stdio.h>
-    #include<stdlib.h>
-    ```
+  ```c
+  //dinh nghia do thi
+  #include<stdio.h>
+  #include<stdlib.h>
 
   // dinh nghia do thi
   struct Node {
@@ -134,9 +130,6 @@
       return 0;
 
   }
-
-  ```
-
   ```
 
 2. Các thuật toán duyệt đồ thị BFS, DFS.
